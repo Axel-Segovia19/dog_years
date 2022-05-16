@@ -3,5 +3,5 @@ package dog
 
 //years converts human years to dog years
 func Years(n int) int {
-	return n * 10
+	return n * 7
 }
